@@ -1,0 +1,7 @@
+
+
+Add and remove a file
+
+touch testfile.txt
+
+rm testfile.txt
